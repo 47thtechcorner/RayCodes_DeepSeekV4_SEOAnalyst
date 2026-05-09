@@ -1,3 +1,5 @@
+Codes for my Youtube Video : [https://youtu.be/xjiEdsWoQ2k]
+
 # Automated SEO Keyword Strategist
 
 ## Project Description
