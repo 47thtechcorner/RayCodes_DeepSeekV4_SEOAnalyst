@@ -1,0 +1,11 @@
+URL,Keyword,Traffic,Intent
+/shoes/running-shoes-men,best men's running shoes,4500,Commercial
+/blog/top-10-running-shoes-men,best men's running shoes,1200,Informational
+/shoes/nike-pegasus,buy nike pegasus running shoes,3400,Transactional
+/running/nike-pegasus-review,buy nike pegasus running shoes,800,Informational
+/accessories/water-bottles,best running water bottles,2100,Commercial
+/blog/hydration-for-runners,best running water bottles,500,Informational
+/apparel/mens-shorts,men's running shorts,5600,Commercial
+/sale/mens-shorts,men's running shorts,3200,Commercial
+/shoes/trail-running,trail running shoes guide,1500,Informational
+/blog/best-trail-shoes,trail running shoes guide,900,Informational

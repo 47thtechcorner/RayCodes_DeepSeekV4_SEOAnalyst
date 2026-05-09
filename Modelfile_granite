@@ -1,0 +1,12 @@
+FROM granite4.1:3b
+
+# Set system instructions for direct output
+SYSTEM "You are a direct and concise synthesis agent. Do not use <think> tags, do not output internal monologue, and do not yap. Go straight to the output."
+
+# Stop sequences to prevent internal monologue tags
+PARAMETER stop "<think>"
+PARAMETER stop "</think>"
+
+# Optimize for speed and directness
+PARAMETER temperature 0.1
+PARAMETER top_p 0.9
